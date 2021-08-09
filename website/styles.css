@@ -1,13 +1,11 @@
-h2{
-    margin-left: 10%;
-}
+
 
 
 .jumbotron{
-   
-    margin-left: 10%;
+   text-align: center;
+    margin-left: 5%;
     background-color: rgba(0,0,0,0.2);
-    margin-right: 10%;
+    margin-right: 5%;
 }
 
 .content{
@@ -28,13 +26,17 @@ body{
 .row{
     margin: 5%;
 }
-
 .right{
     text-align: center;
-    margin-left: 7%;
+    margin-left: 6;
 }
 
 .jumbopic{
     border: white;
-    margin-left: 15%;
+    
     width: 150px;
+}
+
+.logo{
+    height: 70px;
+}
